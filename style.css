@@ -70,3 +70,11 @@ body {
     margin: 10px auto;
     border: 1px solid #d1d1d1;
 }
+#imgBox img {
+    display: none;
+    margin-top: 20px;
+}
+
+.show-img {
+    display: block;
+}
